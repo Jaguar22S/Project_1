@@ -4,7 +4,7 @@
 	<title>Student Information Form</title>
 </head>
 <body>
-	<h2>Student Information Form</h2>
+	<h2>Student Info Form</h2>
 	<form method="post" action="process.php">
 		<label>Name:</label>
 		<input type="text" name="name" required><br><br>
